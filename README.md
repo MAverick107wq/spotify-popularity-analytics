@@ -13,8 +13,21 @@ This project is an end-to-end data analysis pipeline designed to uncover pattern
 * **Libraries:** Pandas, Seaborn, Matplotlib, OS
 * **Workflow:** Data Cleaning $\rightarrow$ Exploratory Data Analysis (EDA) $\rightarrow$ Visualization
 
+Dataset
+The dataset used in this analysis is the "Spotify Tracks Dataset" sourced from Kaggle.
+You can download the original dataset here: Spotify Tracks Dataset on Kaggle
+
 ## How to Run
 1. Ensure your dataset `spotify_clean.csv` is in the `data/` directory.
 2. Run the main analysis script:
    ```bash
    python notebooks/main_analysis.py
+
+
+
+
+
+
+
+
+
